@@ -61,4 +61,4 @@ Projeto desenvolvido ao longo do Bootcamp Everis Fullstack Developer, sendo mini
   ## Licença 
   The [MIT License]() (MIT)
 
-  Copyright :copyright: 2020 - bootcamp-everis-fullstack-developer-angular
+  Copyright :copyright: 2020 - bootcamp Capgemini Fullstack Java and Angular
